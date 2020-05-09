@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="CartoVelo_0.5.svg"
+   sodipodi:docname="CarteTempsVelo_A4.svg"
    inkscape:export-filename="C:\Users\TO52850\Documents\Archipel\Organisation\Cartes\CarteVelo_0.4.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -46,8 +46,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="574.5315"
-     inkscape:cy="812.67565"
+     inkscape:cx="245.24579"
+     inkscape:cy="355.53279"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2130,19 +2130,6 @@
       <path
          id="path9034"
          d="m 32,9.6 c 1.98,0 3.6,-1.61 3.6,-3.6 0,-1.99 -1.62,-3.6 -3.6,-3.6 -1.99,0 -3.6,1.61 -3.6,3.6 0,1.99 1.61,3.6 3.6,3.6 z M 38,24 c -5.52,0 -10,4.48 -10,10 0,5.52 4.48,10 10,10 5.52,0 10,-4.48 10,-10 0,-5.52 -4.48,-10 -10,-10 z m 0,17 c -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 0,3.87 -3.13,7 -7,7 z m -8.4,-21 8.4,0 0,-3.6 -6.4,0 -3.87,-6.53 C 27.14,8.87 26.05,8.2 24.8,8.2 c -0.94,0 -1.79,0.38 -2.4,1 L 15,16.59 c -0.62,0.62 -1,1.47 -1,2.41 0,1.26 0.67,2.32 1.7,2.94 L 22.4,26 22.4,36 26,36 26,23.04 21.5,19.7 26.14,15.04 29.6,20 Z M 10,24 C 4.48,24 0,28.48 0,34 0,39.52 4.48,44 10,44 15.52,44 20,39.52 20,34 20,28.48 15.52,24 10,24 Z m 0,17 c -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 0,3.87 -3.13,7 -7,7 z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g9058"
-       transform="translate(1001.7143,784.07649)">
-      <path
-         id="path9048"
-         d="M 0,0 48,0 48,48 0,48 Z"
-         inkscape:connector-curvature="0"
-         style="fill:none" />
-      <path
-         id="path9050"
-         d="m 28,7.6 c 1.98,0 3.6,-1.61 3.6,-3.6 0,-1.99 -1.62,-3.6 -3.6,-3.6 -1.99,0 -3.6,1.61 -3.6,3.6 0,1.99 1.61,3.6 3.6,3.6 z m 0.24,12.4 9.76,0 0,-3.6 -7.25,0 -4,-6.66 c -0.59,-1 -1.68,-1.66 -2.92,-1.66 -0.34,0 -0.67,0.05 -0.98,0.14 L 12,11.6 12,22 l 3.6,0 0,-7.33 4.21,-1.31 L 12,44 15.6,44 21.34,27.78 26,34 l 0,10 3.6,0 0,-12.81 -4.98,-9.08 1.47,-5.74 2.15,3.63 z"
          inkscape:connector-curvature="0" />
     </g>
     <g
