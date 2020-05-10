@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="CartoPieton_0.1.svg"
+   sodipodi:docname="CarteTempsPied_A4.svg"
    inkscape:export-filename="C:\Users\TO52850\Documents\Archipel\Organisation\Cartes\CartePieton_0.1.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -45,9 +45,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="248.97766"
-     inkscape:cy="457.86937"
+     inkscape:zoom="1.4"
+     inkscape:cx="635.00599"
+     inkscape:cy="279.40325"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1013,24 +1013,20 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"><tspan
          sodipodi:role="line"
-         id="tspan5730-7"
          x="21.693331"
-         y="946.60492">Temps de parcours calculés en utilisant les itinéraires recommandés par l'application GéoVélo </tspan><tspan
+         y="946.60492"
+         id="tspan9351">Temps de parcours calculés en utilisant Google Map </tspan><tspan
          sodipodi:role="line"
          x="21.693331"
          y="963.79242"
-         id="tspan9351">(utilisateur moyen, vélo classique, 15km/h de moyenne, respect du code de la route, pas de vent)</tspan><tspan
-         sodipodi:role="line"
-         x="21.693331"
-         y="980.97992"
          id="tspan9371">Vous marchez plus vite que les temps indiqués ? Cool ! Moins vite ? Ce n'est pas une course !</tspan><tspan
          sodipodi:role="line"
          x="21.693331"
-         y="998.16742"
+         y="980.97992"
          id="tspan9369" /><tspan
          sodipodi:role="line"
          x="21.693331"
-         y="1015.3549"
+         y="998.16742"
          id="tspan7095">Carte créée par le collectif des &quot;Faiseurs de ville&quot; : @misterraf, @too_sham, @Orna</tspan></text>
     <text
        xml:space="preserve"
@@ -1715,7 +1711,7 @@
          sodipodi:role="line"
          id="tspan5730-7-0"
          x="741.86707"
-         y="993.74817">Version 0.1</tspan></text>
+         y="993.74817">Version 0.2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e57f37;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
