@@ -45,11 +45,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-131.37458"
-     inkscape:cy="-43.381265"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="95.216411"
+     inkscape:cy="380.42086"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      width="270mm"
      inkscape:window-width="1920"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,8 +86,8 @@
        x="3.6195734"
        y="3.4028182"
        rx="5.031724"
-       inkscape:export-xdpi="64.809998"
-       inkscape:export-ydpi="64.809998" />
+       inkscape:export-xdpi="150.02927"
+       inkscape:export-ydpi="150.02927" />
     <image
        y="16.389551"
        x="20.621513"
@@ -478,8 +478,8 @@
          x="866.81427"
          y="463.72424"
          id="tspan4938"><tspan
-   id="tspan7091"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.95120239px;line-height:120.00000477%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#21a0c2;fill-opacity:1">A VELO </tspan></tspan><tspan
+           id="tspan7091"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.95120239px;line-height:120.00000477%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#21a0c2;fill-opacity:1">À VÉLO </tspan></tspan><tspan
          sodipodi:role="line"
          x="866.81427"
          y="542.86572"
@@ -2292,7 +2292,7 @@
            height="71.720833"
            x="1603.1121"
            y="678.60577" /></flowRegion><flowPara
-         id="flowPara6323"></flowPara></flowRoot>  </g>
+         id="flowPara6323" /></flowRoot>  </g>
   <style
      id="style8212"
      type="text/css">
