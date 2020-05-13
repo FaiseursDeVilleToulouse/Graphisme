@@ -45,9 +45,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="649.08409"
-     inkscape:cy="95.155245"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="333.73371"
+     inkscape:cy="-47.703787"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2249,7 +2249,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.07369011,0,0,0.07369011,21.442147,963.52068)"
+       transform="matrix(0.05361695,0,0,0.05361695,20.727861,979.00644)"
        id="layer1-3">
       <rect
          y="552.36218"
@@ -2277,18 +2277,18 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="63.048271"
-       y="1027.3818"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.619701"
+       y="1026.3672"
        id="text5728-7-7-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5730-7-0-2"
-         x="63.048271"
-         y="1027.3818">@FaiseursV</tspan></text>
+         x="51.619701"
+         y="1026.3672">@FaiseursV</tspan></text>
     <g
        id="g4599"
-       transform="matrix(0.08277998,0,0,0.08277998,155.73045,1001.4561)"
+       transform="matrix(0.06023074,0,0,0.06023074,155.86465,1006.6083)"
        style="fill:#000000">
       <path
          id="path4601"
@@ -2299,15 +2299,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="202.04214"
-       y="1026.7959"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.04214"
+       y="1025.8301"
        id="text5728-7-7-7-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5730-7-0-2-6"
-         x="202.04214"
-         y="1026.7959">https://github.com/FaiseursDeVilleToulouse</tspan></text>
+         x="188.04214"
+         y="1025.8301">https://github.com/FaiseursDeVilleToulouse</tspan></text>
   </g>
   <style
      id="style8212"
