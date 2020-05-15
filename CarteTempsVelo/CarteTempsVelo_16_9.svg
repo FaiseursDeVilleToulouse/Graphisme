@@ -45,11 +45,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-34.572028"
-     inkscape:cy="71.832323"
+     inkscape:zoom="1.979899"
+     inkscape:cx="329.2824"
+     inkscape:cy="-67.60858"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      width="270mm"
      inkscape:window-width="1920"
@@ -176,7 +176,7 @@
          sodipodi:role="line"
          id="tspan5730-7-0-2"
          x="896.20575"
-         y="804.12408">@FaiseursV</tspan></text>
+         y="804.12408">@DesFaiseurs</tspan></text>
     <g
        id="g4599"
        transform="matrix(0.06023074,0,0,0.06023074,1000.4507,784.3652)"
@@ -1796,7 +1796,7 @@
          sodipodi:role="line"
          id="tspan5730-7-0"
          x="1378.2632"
-         y="773.53491">Version 0.7</tspan></text>
+         y="773.53491">Version 0.8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e57f37;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
